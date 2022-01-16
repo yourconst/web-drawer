@@ -1,0 +1,28 @@
+{
+  "name": "web-drawer",
+  "version": "0.1.0",
+  "description": "Helpful library for canvas 2d / webgl / webgl2 API's work",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourconst/web-drawer.git"
+  },
+  "keywords": [
+    "canvas",
+    "2d",
+    "3d",
+    "webgl",
+    "webgl2",
+    "web",
+    "html"
+  ],
+  "author": "yourconst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourconst/web-drawer/issues"
+  },
+  "homepage": "https://github.com/yourconst/web-drawer#readme"
+}
